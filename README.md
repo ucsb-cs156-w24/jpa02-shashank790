@@ -1,6 +1,8 @@
 # STARTER-jpa02
 # jpa02-shashank790
 
+Repo: https://github.com/ucsb-cs156-w24/jpa02-shashank790
+
 Deployed at: http://jpa02-shashank790.dokku-09.cs.ucsb.edu/
 
 # About this repo
